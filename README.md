@@ -49,8 +49,18 @@ Anhang der Arbeit dokumentiert. Der bereitgestellte Code dient der
 Nachvollziehbarkeit des Vorgehens und als Referenz für die methodische Umsetzung.
 
 ## Verwendete Modelle
-- Gemini 3 Pro Preview (Google)
+- Gemini 3 Pro Preview 
+- Qwen3-VL-235B-A22B
 
 ## Hinweis
+
+Hinweis:
+Die Ergebnisse für Qwen3-VL-235B-A22B wurden über die offizielle Weboberfläche
+des Modells erzeugt, da für dieses Modell keine frei zugängliche und praktikable 
+Programmierschnittstelle zur direkten Videoanalyse zur Verfügung stand.
+
+-> https://chat.qwen.ai/ hier die oben genannten Videos immer im neuen Chat einfügen:
+https://th-koeln.sciebo.de/s/d5Moz74LNYwQy57 im Ordner BachelorarbeitVideos
+
 Dieses Repository dient ausschließlich wissenschaftlichen Zwecken im Rahmen
 einer akademischen Arbeit.
