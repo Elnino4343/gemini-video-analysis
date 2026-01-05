@@ -10,6 +10,7 @@ vordefinierte Prompts im Rahmen einer Bachelorarbeit.
 - Google-Colab-Notebook zur Abfrage von Gemini 3 Pro Preview
 - Vorgegebene Prompts zur Videoanalyse
 - Automatisierte Ausgabe der Modellantworten
+- Abfragemethode für Qwen3-VL-235B-A22B
 
 ## Ausführung
 Das Notebook ist für die Ausführung in **Google Colab** vorgesehen.
