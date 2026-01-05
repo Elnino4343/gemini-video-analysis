@@ -20,6 +20,28 @@ Der API-Key ist **nicht** im Repository enthalten.
 
 Ohne hinterlegten API-Key kann der Code nicht ausgeführt werden.
 
+Hier sind nochmal die Video Urls die man manuell eingeben muss:
+
+Sportvideos:
+
+Mainz - Fc Köln https://www.youtube.com/watch?v=YCBUSAAIFPg
+
+Galatasaray - Besiktas https://www.youtube.com/watch?v=LchfrISjwwY
+
+
+Alltags-Aufnahmen:
+
+Wochen Alltagsvideo https://www.youtube.com/watch?v=LWCFsczZ9QM
+
+Food Flog Video  https://www.youtube.com/watch?v=TV7IAUA9WEY 
+
+
+Anleitungs-Videos:
+
+Geburtstagskarte https://www.youtube.com/watch?v=42Lkt5MU5lY
+
+Virtual Studio code https://www.youtube.com/watch?v=KMxo3T_MTvY
+
 ## Hinweis zur Reproduzierbarkeit
 Die im Rahmen der Bachelorarbeit gewonnenen Ergebnisse, einschließlich der
 verwendeten Prompts und Modellantworten, sind vollständig im Text sowie im
